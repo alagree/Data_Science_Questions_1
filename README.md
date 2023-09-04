@@ -1,23 +1,23 @@
-**Data Science Course Assignments**
+# Python Coding Questions 🐍📚
 
-Welcome to my Data Science Assignments repository! This repository contains a collection of questions, code samples, and answers from data science courses. These questions cover various topics and challenges related to data analysis, data manipulation, and problem-solving.
+Welcome to the Python Coding Questions repository! 🌟 This repository contains coding questions and solutions in Python. 🐍📚
 
-**Repository Contents**
+## Repository Contents
 
-This repository is organized into multiple sections, each corresponding to a different assignment or topic. Here's an overview of the contents:
+Explore these intriguing Questions that will take you on a journey through Python coding and problem-solving! 🌟💡 Here's what you'll find:
 
-**Question 1: DNA Symbol Counter**
+### Question #1: Count Symbols 🧬
 
-In this question, we count the occurrences of symbols 'A', 'C', 'G', and 'T' in a given DNA string. The code provided here demonstrates how to analyze and visualize DNA sequences, which can be useful in bioinformatics and genetics research.
+In this question, you are given a DNA string represented by symbols 'A', 'C', 'G', and 'T'. Your task is to write code that counts the number of times each of these symbols occurs in the string and prints the counts.
 
-**Question 2: State Capital Search**
+### Question #2: Find a Substring 🔎
 
-This question involves finding capital city names that contain the name of a state as a substring. It showcases a practical use case of dictionaries and string manipulation to extract meaningful information from data.
+Given a dictionary of US states and their capitals, write code to find and print a list of capitals that contain the name of a state as a substring.
 
-**Question 3: Point Rectangle Check**
+### Question #3: Is a Data Point Within a Rectangle? 📐
 
-The isIn() function checks if a point lies within or on the edge of a specified rectangle. It is a valuable utility function for spatial data analysis and geometric problem-solving.
+Write a function, `isIn()`, which returns `True` if a point is within a rectangle specified by two sets of coordinates, and `False` if the point is outside the rectangle. The function accepts three parameters: the coordinates of the rectangle's corners and the point being tested.
 
-**Question 4: Points in Rectangle Check**
+### Question #4: Are All Points Within a Rectangle? 📐
 
-Building upon the previous question, the allIn() function determines whether a list of points are all within or on the edge of a given rectangle. This can be helpful in scenarios where you need to validate multiple data points against a predefined region.
+Modify the previous function, `allIn()`, to accept a list of points and return `True` only if all points in the list are within or on the edge of the rectangle.
